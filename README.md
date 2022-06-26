@@ -1,8 +1,12 @@
-## Proyecto Calculadora [DCU]
+## Calculadora [DCU]
 
-### Autor ✒️
-(Nombre, matricula y github personal respectivamente)
+La "Calculadora CH-29 Plus" posee un diseño minimalista mientras que posee potentes funcionalidades para sus usuarios.
 
-* **Carlos Henriquez** - **2020-10203** - [Carlos](https://github.com/Carlos-Henriquez)
+Programada en su gran mayoría en inglés para mayor facilidad a la hora de memorizar, nombrar y programar sus diferentes componentes.
+
+### Autor 
+(Nombre y matricula)
+
+* **Carlos Henriquez** - **2020-10203**
 
 <hr>
