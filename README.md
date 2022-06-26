@@ -8,5 +8,3 @@ Programada en su gran mayoría en inglés para mayor facilidad a la hora de memo
 (Nombre y matricula)
 
 * **Carlos Henriquez** - **2020-10203**
-
-<hr>
